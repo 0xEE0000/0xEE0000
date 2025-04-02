@@ -5,6 +5,5 @@ Here are some ideas to get you started:
 - Try to do some research under my supervisor
 - Currently work on CSAPP and Computer Network
 - Currently plan: Build a personal blog/website
-- 📫 How to reach me: P2321323@mpu.edu.mo
-- 😄 Pronouns: Kurisu
+
 
